@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# Bash-desde-cero
-=======
+
 <center><h1>   Bash Scripting desde Cero</h1></center>  
 <p align="center">
 
