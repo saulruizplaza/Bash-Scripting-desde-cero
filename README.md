@@ -117,7 +117,7 @@ chmod +x 04_script_utiles/*.sh
 
 
 
-## <img src="./img/logoactual.jpg" width=25 style="; border-radius:50%;">  ¡Hola! Me llamo Saúl Ruiz 
+## <img src="./img/wave.gif" width=25 style="; border-radius:50%;">  ¡Hola! Me llamo Saúl Ruiz 
 
 ### Estudiante en Ciberseguridad
 
