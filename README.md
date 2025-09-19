@@ -134,4 +134,3 @@ Si quieres aprender informática, mejorar tus habilidades, descubrir trucos y so
 [![YouTube](https://img.shields.io/badge/YouTube-Plasysx-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@Plasysx)
 [![Twitter](https://img.shields.io/badge/Twitter-@plasysx-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/plasysx)
 
->>>>>>> f858501 (First Upload)
